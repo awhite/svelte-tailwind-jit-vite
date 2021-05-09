@@ -5,7 +5,7 @@ Quickly scaffold a Svelte App with Just-in-time TailwindCSS compiler on Vite.
 # Install
 
 ```
-npx degit reepolee/svelte-tailwind-jit-vite#main svelte-app
+npx degit awhite/svelte-tailwind-jit-vite#main svelte-app
 cd svelte-app
 npm i
 npm run dev -- --open
